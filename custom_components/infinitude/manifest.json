@@ -1,6 +1,6 @@
 {
   "domain": "infinitude2",
-  "name": "Carrier Infinity via Infinitude Proxy",
+  "name": "Carrier Infinity via Infinitude Proxy for second system",
   "documentation": "https://github.com/anks329/homeassistant-infinitude",
   "dependencies": [],
   "codeowners": ["@MizterB"], ["@anks329"]
